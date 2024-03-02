@@ -19,7 +19,7 @@
 - pytorch 1.12.0
 
 **0. The proposed datasets (UWF-RHS).**
-- Due to the valuable nature of the collected and annotated data, we would like to provide access links after the papers are received. However, we will provide a few sample examples for ease of review. Thank you very much for your understanding.
+- Due to the valuable nature of the collected and annotated data, we would like to provide access links upon receipt of the papers. However, for the sake of review, we will provide some examples. Thank you very much for your understanding.
 
 
 Continuously updated...
