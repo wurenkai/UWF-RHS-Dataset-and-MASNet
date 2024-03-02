@@ -20,7 +20,7 @@
 - python 3.8
 - pytorch 1.12.0
 
-**0. The proposed datasets (UWF-RHS).**
+**1. The proposed datasets (UWF-RHS).**
 - Due to the valuable nature of the collected and annotated data, we would like to provide access links upon receipt of the papers. However, for the sake of review, we will provide some examples. Thank you very much for your understanding.
 
 
