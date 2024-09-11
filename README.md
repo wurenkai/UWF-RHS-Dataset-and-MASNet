@@ -10,11 +10,13 @@
 </p>
 
 ## News🚀
+(2024.09.10) ***This work has been accepted for early access by IEEE JBHI!.🔥*** 
+
 (2024.03.02) ***Upload the corresponding running code.*** 
 
 (2024.03.02) ***Manuscript submitted for review.*** 📃
 
-***Note: Our paper is in the review stage. In the future, we will fully upload code and data set links. The project is continuously updated...***
+***Note: We are in the process of organizing the code and datasets and they'll be live soon! Keep following us!***
 
 **0. Main Environments.**
 - python 3.8
