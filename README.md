@@ -10,7 +10,7 @@
 </p>
 
 ## News🚀
-(2024.09.10) ***This work has been accepted for early access by IEEE JBHI!.🔥*** 
+(2024.09.10) ***This work has been accepted for early access by IEEE Journal of Biomedical and Health Informatics!🔥*** 
 
 (2024.03.02) ***Upload the corresponding running code.*** 
 
