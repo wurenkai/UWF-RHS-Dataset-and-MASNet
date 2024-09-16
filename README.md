@@ -33,5 +33,27 @@ https://github.com/wurenkai/UWF-RHS-Dataset-and-MASNet/assets/124028634/17a43a92
 
 
 
+**2. Train the MASNet.**
+```
+python train.py
+```
+- After trianing, you could obtain the outputs in './results/'
 
-Continuously updated...
+**3. Test the MHorUNet.**</br>
+First, in the test.py file, you should change the address of the checkpoint in 'resume_model' and fill in the location of the test data in 'data_path'.
+```
+python test.py
+```
+- After testing, you could obtain the outputs in './results/'
+
+## Citation
+If you find this repository helpful, please consider citing:
+```
+@article{wu2024automatic,
+  title={Automatic Segmentation of Hemorrhages in the Ultra-wide Field Retina: Multi-scale Attention Subtraction Networks and An Ultra-wide Field Retinal Hemorrhage Dataset},
+  author={Wu, Renkai and Liang, Pengchen and Huang, Yiqi and Chang, Qing and Yao, Huiping},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2024},
+  publisher={IEEE}
+}
+```
