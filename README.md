@@ -10,13 +10,15 @@
 </p>
 
 ## News🚀
+(2024.09.17) ***Our model code has been uploaded! The UWF-RHS Dataset will provide access links next. Stay tuned!*** 
+
 (2024.09.10) ***This work has been accepted for early access by IEEE Journal of Biomedical and Health Informatics!🔥*** 
 
 (2024.03.02) ***Upload the corresponding running code.*** 
 
 (2024.03.02) ***Manuscript submitted for review.*** 📃
 
-***Note: We are in the process of organizing the code and datasets and they'll be live soon! Keep following us!***
+***Note: The UWF-RHS Dataset be live soon! Keep following us!***
 
 **0. Main Environments.**
 - python 3.8
