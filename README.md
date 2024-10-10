@@ -10,6 +10,8 @@
 </p>
 
 ## News🚀
+(2024.10.10) ***The UWF-RHS dataset is now fully public. If you need it, follow the requirements below to submit an application.🔥*** 
+
 (2024.09.17) ***Our model code has been uploaded! The UWF-RHS Dataset will provide access links next. Stay tuned!*** 
 
 (2024.09.10) ***This work has been accepted for early access by IEEE Journal of Biomedical and Health Informatics!🔥*** 
@@ -24,9 +26,14 @@
 - python 3.8
 - pytorch 1.12.0
 
-**1. The proposed datasets (UWF-RHS).**
-- Given the value of collecting and annotating data, we would prefer to provide access links after the paper has been accepted. However, for ease of review, we will provide some examples. Your understanding is greatly appreciated.
-
+**1. The proposed datasets (UWF-RHS).** </br>
+(1) To obtain the UWF-RHS dataset, you need to provide **your name, affiliation, reason for applying (one sentence description of your work), and an assurance that you will not share the dataset privately. Specifically, complete the information in the following format** and send it to 'wurk@shu.edu.cn' with the subject name '**UWF-RHS dataset request**'. We will usually review your request and provide you with a link within 3 days. If you do not register your information as required, your application may fail. Please understand! </br>
+```
+Name:
+Affiliation:
+Reason for applying (one sentence description of your work):
+I (the applicant) guarantee that the data will be used only for academic communication and not for any commercial purposes. I (the applicant) guarantee that I will not privately disseminate the data to any public place without the consent of the author.
+```
 
 
 https://github.com/wurenkai/UWF-RHS-Dataset-and-MASNet/assets/124028634/17a43a92-e421-4fae-bf61-1ce84b0eefca
