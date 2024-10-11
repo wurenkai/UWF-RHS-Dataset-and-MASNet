@@ -46,7 +46,7 @@ python train.py
 ```
 - After trianing, you could obtain the outputs in './results/'
 
-**3. Test the MHorUNet.**</br>
+**3. Test the MASNet.** </br>
 First, in the test.py file, you should change the address of the checkpoint in 'resume_model' and fill in the location of the test data in 'data_path'.
 ```
 python test.py
