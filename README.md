@@ -20,7 +20,8 @@
 
 (2024.03.02) ***Manuscript submitted for review.*** 📃
 
-***Note: The UWF-RHS Dataset be live soon! Keep following us!***
+
+
 
 **0. Main Environments.**
 - python 3.8
