@@ -10,7 +10,7 @@
 </p>
 
 ## News🚀
-(2024.10.10) ***The UWF-RHS dataset is now fully public. If you need it, follow the requirements below to submit an application.🔥*** 
+(2024.10.10) ***The UWF-RHS dataset is now fully public.🔥*** 
 
 (2024.09.17) ***Our model code has been uploaded! The UWF-RHS Dataset will provide access links next. Stay tuned!*** 
 
@@ -28,13 +28,10 @@
 - pytorch 1.12.0
 
 **1. The proposed datasets (UWF-RHS).** </br>
-(1) To obtain the UWF-RHS dataset, you need to provide **your name, affiliation, reason for applying (one sentence description of your work), and an assurance that you will not share the dataset privately. Specifically, complete the information in the following format** and send it to 'wurk@shu.edu.cn' with the subject name '**UWF-RHS dataset request**'. We will usually review your request and provide you with a link within 3 days. If you do not register your information as required, your application may fail. Please understand! </br>
-```
-Name:
-Affiliation:
-Reason for applying (one sentence description of your work):
-I (the applicant) guarantee that the data will be used only for academic communication and not for any commercial purposes. I (the applicant) guarantee that I will not privately disseminate the data to any public place without the consent of the author.
-```
+The UWF-RHS dataset is available [here](https://drive.google.com/file/d/1gxNBujh8OrCyZ3cjtM59ze50VL-sR9qw/view?usp=sharing). It should be noted:
+1. If you use the dataset, please cite the paper: https://doi.org/10.1109/JBHI.2024.3457512
+2. The UWF-RHS dataset may only be used for academic research, not for commercial purposes.
+3. If you can, please give us a like (Starred) for our GitHub project: https://github.com/wurenkai/UWF-RHS-Dataset-and-MASNet
 
 
 https://github.com/wurenkai/UWF-RHS-Dataset-and-MASNet/assets/124028634/17a43a92-e421-4fae-bf61-1ce84b0eefca
